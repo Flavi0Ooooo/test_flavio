@@ -1,4 +1,4 @@
-print("Something")
+:print("Something")
 <<<<<<< HEAD
 =======
 print("Sobolan?")
